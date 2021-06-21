@@ -12,5 +12,5 @@
 ### I am Manuel Gutierrez
 - A curious and passionate developer.
 - A recent Computer Science graduate. 
-- Currently working on creating full stack applications using MEAN stack.
+- Currently working on Go and Kubernetes
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.

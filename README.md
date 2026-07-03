@@ -1,13 +1,16 @@
 ## Hello! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/manuel-gutierrez-61907017b/">
-  <img align="left" alt="Manuel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/mgutierrez98">
-  <img align="left" alt="Manuel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/manuel-gutierrez-61907017b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="22px" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mgutierrez98" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="22px" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -47,5 +50,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgutierrez98&show_icons=true&theme=dark&hide_border=true" alt="Manuel's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mgutierrez98&show_icons=true&theme=dark&hide_border=true" alt="Manuel's GitHub Stats" />
 </div>
